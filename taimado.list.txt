@@ -1,0 +1,35 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Taimado Project - Tracking, Social & Ads
+# Expires: 1 day
+# Total number of network filters: 16
+# -------------------------------------[INFO]---------------------------------------
+#
+# Ads
+#
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 https://doubleclick.net/
+0.0.0.0 https://ad.doubleclick.net/
+0.0.0.0 https://static.doubleclick.net
+0.0.0.0 https://m.doubleclick.net
+0.0.0.0 https://mediavisor.doubleclick.net
+0.0.0.0 https://media.fastclick.net/
+# -------------------------------------[INFO]---------------------------------------
+#
+# Analytics
+#
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 https://analyticsengine.s3.amazonaws.com
+0.0.0.0 https://affiliationjs.s3.amazonaws.com
+0.0.0.0 https://advertising-api-eu.amazon.com
+0.0.0.0 https://amazonaax.com
+0.0.0.0 https://amazonclix.com
+# -------------------------------------[INFO]---------------------------------------
+#
+# Social
+#
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 https://ads.facebook.com
+0.0.0.0 https://ads-api.twitter.com
+0.0.0.0 https://widgets.pinterest.com
+0.0.0.0 https://ads.reddit.com
+0.0.0.0 https://ads.youtube.com
